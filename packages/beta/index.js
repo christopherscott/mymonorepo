@@ -1,1 +1,1 @@
-console.log('beta');
+console.log('app-name: beta');
